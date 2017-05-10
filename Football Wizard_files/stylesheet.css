@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.heading {
+	font-family: allan;
+	font-size: 75px;
+	font-style: normal;
+	font-weight: 700;
+	color: #F80206;
+	background-color: #0C48DB;
+	text-align: center;
+	height: 75px;
+}
+table {
+	text-align: center;
+}
